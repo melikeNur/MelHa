@@ -1,0 +1,7 @@
+Derslik = D205;
+Derslik = D206;
+Hoca    = Murat Ak;
+iken(D205=bos){
+ Murat Ak = D205;
+ }
+ Murat Ak = D206;
