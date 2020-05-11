@@ -15,7 +15,7 @@ Group Members: Melike Nur Korkmaz , Hatice Akıntı <br>
 * <yap  statement>      ::= yap <statement> iken (<expression> )
 * <boolean literal>     ::= dolu | boş
 *<equality expression> ::= <relational expression> | <equality expression> == <relational expression> | <equality expression> != <relational expression> <br>
-     Explanations about the language <h1> **bold** <br> 
+  **bold** Explanations about the language <h1> <br> 
   -Takes a file with extension .MelHa
   -Has if(eger), while(iken) , yap(do) ,boolean literal
   -This programming language specializes in preparing curricula and is very easy to learn.
