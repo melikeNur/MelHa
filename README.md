@@ -1,9 +1,9 @@
 # MelHa
 Group Members: Melike Nur Korkmaz , Hatice Akıntı <br>
       Syntax <br>
- <derslik>             ::= <letter> <classrooomnumber> <br>
- <classroomnumber>     ::= <digit> <digit> <digit>
- <digit>               ::= 0|1|2|3|4|5|6|7|8|9
+ 1. <derslik>             ::= <letter> <classrooomnumber> <br>
+ 2. <classroomnumber>     ::= <digit> <digit> <digit>
+ 3. <digit>               ::= 0|1|2|3|4|5|6|7|8|9
  <saat>                ::= <minutes> <:> <seconds>
  <minutes>             ::= <digit> <digit>
  <seconds>             ::= <digit> <digit>
