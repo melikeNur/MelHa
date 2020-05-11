@@ -1,11 +1,11 @@
 # MelHa
 Group Members: Melike Nur Korkmaz , Hatice Akıntı <br>
       Syntax <br>
-* <derslik>             ::= <letter> <classrooomnumber> <br>
-* <classroomnumber>     ::= <digit> <digit> <digit>
-* <digit>               ::= 0|1|2|3|4|5|6|7|8|9
-* <saat>                ::= <minutes> <:> <seconds>
-* <minutes>             ::= <digit> <digit>
+* <derslik>             ::=  <letter> <classrooomnumber> <br>
+* <classroomnumber>     ::= <digit> <digit> <digit> <br>
+* <digit>               ::= 0|1|2|3|4|5|6|7|8|9 <br>
+* <saat>                ::= <minutes> <:> <seconds> <br>
+* <minutes>             ::= <digit> <digit> <br>
 * <seconds>             ::= <digit> <digit>
 * <digit>               ::= 0|1|2|3|4|5|6|7|8|9
 * <char>                ::= <letter>  |  <digit>
@@ -17,7 +17,6 @@ Group Members: Melike Nur Korkmaz , Hatice Akıntı <br>
 * <equality expression> ::= <relational expression> | <equality expression> == <relational expression> | <equality expression> != <relational expression> <br>
   **bold** 
    Explanations about the language <br> 
-   *italic*
   -Takes a file with extension .MelHa
   -Has if(eger), while(iken) , yap(do) ,boolean literal
   -This programming language specializes in preparing curricula and is very easy to learn.
