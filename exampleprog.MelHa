@@ -5,3 +5,18 @@ iken(D205=bos){
  Murat Ak = D205;
  }
  Murat Ak = D206;
+
+
+**other example**
+
+saat=09:30;
+eger(Derslik=D205 && D205=bos){
+return Murat Ak;
+}
+aksiTakdirde(Derslik=D206 && D206=bos){
+return Murat Ak;
+}
+aksiTakdirde(Derslik=D207 && D207=bos){
+return Murat Ak;
+}
+.
