@@ -5,7 +5,7 @@
 * &lt;classroomnumber&gt;     ::= &lt;digit&gt; &lt;digit&gt; &lt;digit&gt; <br>
 * &lt;digit&gt;               ::= 0|1|2|3|4|5|6|7|8|9 <br>
 * &lt;saat&gt;               ::= &lt;minutes&gt &lt;:&gt; &lt;seconds&gt; <br>
-* &lt;minutes&gt;             ::= &lt;digit&gt &l;tdigit&gt; <br>
+* &lt;minutes&gt;             ::= &lt;digit&gt &lt;digit&gt; <br>
 * &lt;seconds&gt;             ::= &lt;digit&gt; &lt;digit&gt;
 * &lt;digit&gt;               ::= 0|1|2|3|4|5|6|7|8|9
 * &lt;char&gt;                ::= &lt;letter&gt;  |  &lt;digit&gt;
