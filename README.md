@@ -8,7 +8,7 @@
 * &lt;minutes&gt;             ::= &lt;digit&gt &l;tdigit&gt; <br>
 * &lt;seconds&gt;             ::= &lt;digit&gt; &lt;digit&gt;
 * &lt;digit&gt;               ::= 0|1|2|3|4|5|6|7|8|9
-* &lt;char&gt;                ::= &ltletter>  |  &ltdigit&gt
+* &lt;char&gt;                ::= &lt;letter&gt;  |  &lt;digit&gt;
 * &lt;empty statement&gt;     ::= ;
 * &lt;eger&gt;               ::=eger ( &lt;expression&gt; ) &lt;statement&gt;
 * &lt;iken statement&gt;   ::=iken ( &lt;expression&gt; ) &ltstatement&gt
