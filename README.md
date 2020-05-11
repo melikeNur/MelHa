@@ -1,7 +1,7 @@
 # MelHa
 **Group Members: Melike Nur Korkmaz , Hatice Akıntı <br>
       Syntax** <br>
-* &lt;type&gt;                ::= lt;derslik&gt;|&lt;saat&gt;|&lt;hoca&gt;                               
+* &lt;type&gt;                ::= &lt;derslik&gt;|&lt;saat&gt;|&lt;hoca&gt;                               
 * &lt;derslik&gt;             ::= &lt;letter&gt; &lt;classrooomnumber&gt;
 * &lt;classroomnumber&gt;     ::= &lt;digit&gt; &lt;digit&gt; &lt;digit&gt;
 * &lt;digit&gt;               ::= 0|1|2|3|4|5|6|7|8|9 
