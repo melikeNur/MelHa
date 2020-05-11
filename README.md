@@ -1,20 +1,20 @@
 # MelHa
 **Group Members: Melike Nur Korkmaz , Hatice Akıntı <br>
       Syntax** <br>
-* &lt derslik &gt             ::= &ltletter&gt &ltclassrooomnumber&gt <br>
-* &ltclassroomnumber&gt     ::= &ltdigit&gt &ltdigit&gt &ltdigit&gt <br>
-* &ltdigit&gt               ::= 0|1|2|3|4|5|6|7|8|9 <br>
-* &ltsaat&gt                ::= &ltminutes&gt &lt:&gt &ltseconds&gt <br>
-* &ltminutes&gt             ::= &ltdigit&gt &ltdigit&gt <br>
-* &ltseconds&gt             ::= &ltdigit&gt &ltdigit&gt
-* &ltdigit&gt               ::= 0|1|2|3|4|5|6|7|8|9
-* &ltchar&gt                ::= &ltletter>  |  &ltdigit&gt
-* &ltempty statement&gt     ::= ;
-* &lteger&gt               ::=eger ( <expression> ) &ltstatement&gt
-* &ltiken statement&gt      ::=iken ( <expression> ) &ltstatement&gt
-* &ltyap  statement&gt      ::= yap &ltstatement&gt iken (&ltexpression&gt )
-* &ltboolean literal&gt     ::= dolu | boş
-* &ltequality expression&gt ::= &ltrelational expression&gt | &ltequality expression&gt == &ltrelational expression&gt | &ltequality expression&gt != &ltrelational expression&gt <br>
+* &lt;derslik&gt;             ::= &lt;letter&gt; &lt;classrooomnumber&gt; <br>
+* &lt;classroomnumber&gt;     ::= &lt;digit&gt; &lt;digit&gt; &lt;digit&gt; <br>
+* &lt;digit&gt;               ::= 0|1|2|3|4|5|6|7|8|9 <br>
+* &lt;saat&gt;               ::= &lt;minutes&gt &lt;:&gt; &lt;seconds&gt; <br>
+* &lt;minutes&gt;             ::= &ltdigit&gt &ltdigit&gt <br>
+* &lt;seconds&gt;             ::= &ltdigit&gt &ltdigit&gt
+* &lt;digit&gt;               ::= 0|1|2|3|4|5|6|7|8|9
+* &lt;char&gt;                ::= &ltletter>  |  &ltdigit&gt
+* &lt;empty statement&gt;     ::= ;
+* &lt;eger&gt;               ::=eger ( <expression> ) &ltstatement&gt
+* &lt;iken statement&gt;   ::=iken ( <expression> ) &ltstatement&gt
+* &lt;yap  statement&gt;      ::= yap &ltstatement&gt iken (&ltexpression&gt )
+* &lt;boolean literal&gt;     ::= dolu | boş
+* &lt;equality expression&gt; ::= &lt;relational expression&gt; | &lt;equality expression&gt; == &lt;relational expression&gt; | &lt;equality expression&gt; != &lt;relational expression&gt; <br>
    Explanations about the language <br> 
   -Takes a file with extension .MelHa
   -Has if(eger), while(iken) , yap(do) ,boolean literal
