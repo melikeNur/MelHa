@@ -1,20 +1,20 @@
 # MelHa
 **Group Members: Melike Nur Korkmaz , Hatice Akıntı <br>
       Syntax** <br>
-* <derslik>             ::= <letter> <classrooomnumber> <br>
-* <classroomnumber>     ::= <digit> <digit> <digit> <br>
-* <digit>               ::= 0|1|2|3|4|5|6|7|8|9 <br>
-* <saat>                ::= <minutes> <:> <seconds> <br>
-* <minutes>             ::= <digit> <digit> <br>
-* <seconds>             ::= <digit> <digit>
-* <digit>               ::= 0|1|2|3|4|5|6|7|8|9
-* <char>                ::= <letter>  |  <digit>
-* <empty statement>     ::= ;
-* <eger>                ::=eger ( <expression> ) <statement>
-* <iken statement>      ::=iken ( <expression> ) <statement>
-* <yap  statement>      ::= yap <statement> iken (<expression> )
-* <boolean literal>     ::= dolu | boş
-* <equality expression> ::= <relational expression> | <equality expression> == <relational expression> | <equality expression> != <relational expression> <br>
+* &ltderslik&gt             ::= &ltletter&gt &ltclassrooomnumber&gt <br>
+* &ltclassroomnumber&gt     ::= &ltdigit&gt &ltdigit&gt &ltdigit&gt <br>
+* &ltdigit&gt               ::= 0|1|2|3|4|5|6|7|8|9 <br>
+* &ltsaat&gt                ::= &ltminutes&gt &lt:&gt &ltseconds&gt <br>
+* &ltminutes&gt             ::= &ltdigit&gt &ltdigit&gt <br>
+* &ltseconds&gt             ::= &ltdigit&gt &ltdigit&gt
+* &ltdigit&gt               ::= 0|1|2|3|4|5|6|7|8|9
+* &ltchar&gt                ::= &ltletter>  |  &ltdigit&gt
+* &ltempty statement&gt     ::= ;
+* &lteger&gt               ::=eger ( <expression> ) &ltstatement&gt
+* &ltiken statement&gt      ::=iken ( <expression> ) &ltstatement&gt
+* &ltyap  statement&gt      ::= yap &ltstatement&gt iken (&ltexpression&gt )
+* &ltboolean literal&gt     ::= dolu | boş
+* &ltequality expression&gt ::= &ltrelational expression&gt | &ltequality expression&gt == &ltrelational expression&gt | &ltequality expression&gt != &ltrelational expression&gt <br>
    Explanations about the language <br> 
   -Takes a file with extension .MelHa
   -Has if(eger), while(iken) , yap(do) ,boolean literal
