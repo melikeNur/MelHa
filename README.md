@@ -25,4 +25,5 @@
    Explanations about the language <br> 
   -Takes a file with extension .MelHa
   -Has if(eger), while(iken) , yap(do) ,boolean literal
-  -This programming language specializes in preparing curricula and is very easy to learn.
+  -This programming language specializes in preparing curricula and is very easy to learn
+  -It need only hour,classrooms,teachers and days.
