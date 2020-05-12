@@ -9,7 +9,7 @@ iken(D205=bos){
 
 **other example**
 
-saat=09:30;
+String=Monday , saat=09:30;
 eger(Derslik=D205 && D205=bos){
 return Murat Ak;
 }
@@ -19,4 +19,3 @@ return Murat Ak;
 aksiTakdirde(Derslik=D207 && D207=bos){
 return Murat Ak;
 }
-.
