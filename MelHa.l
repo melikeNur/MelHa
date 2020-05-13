@@ -23,6 +23,10 @@ int yylex();
 "void"                    {return VOID;}
 "return"                  {return RETURN;}
 ","                        {return seperator;}
+"****"                      {return comment;}
+"("                        {return open_bracket;}
+")"                        {return close_bracket;}
+";"                         {return continue;}
 [a-zA-Z]+                  {return String;}
 [a-zA-Z]+                 {yylval.id=yytext[0]; return Hoca;}
 [A-Z][0-9]+               {return yylval.num = atoi(yytext); return Derslik;}
