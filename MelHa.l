@@ -7,26 +7,35 @@
 void yyerror(char *);
 int yylex();
 %}
+
 //brackets
-open_barcket           (\()
+open_bracket           (\()
 close_bracket           (\))
 
 //conditional statements
-yap           yap
-iken          iken
-icin           icin
-eger            eger
+yap               yap
+iken              iken
+icin              icin
+eger              eger
 aksiTakdirde     aksiTakdirde
 
 //comment
-****       ****
+****      
 
 //logical operators
-&&
-||
-==
+AND           (\&&)
+OR             (\||)
+EQ             (\==)
 
-//
+//null statements
+dolu
+bos
+
+//Variables and constants
+String     [a-zA-Z]+
+Hoca       [a-zA-Z]+
+Derslik   [A-Z][0-9]+
+saat         ^([0-1]?[0-9]|2[0-3]):[0-5][0-9]
 
 %%
 "yap"                       {return DO;}
