@@ -7,6 +7,27 @@
 void yyerror(char *);
 int yylex();
 %}
+//brackets
+open_barcket           (\()
+close_bracket           (\))
+
+//conditional statements
+yap           yap
+iken          iken
+icin           icin
+eger            eger
+aksiTakdirde     aksiTakdirde
+
+//comment
+****       ****
+
+//logical operators
+&&
+||
+==
+
+//
+
 %%
 "yap"                       {return DO;}
 "iken"                     {return WHILE;}
