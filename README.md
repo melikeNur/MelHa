@@ -25,6 +25,6 @@
    Explanations about the language <br>
   -This programming languaage contain our names:Mel was Melike and Ha was Hatice.<br>
   -Takes a file with extension .mh.Infact if extension .MH,it confuse for Graphic File extension son only use .mh.<br>
-  -Has if(eger), while(iken) , yap(do) ,boolean literal<br>
+  -Has if(eger), while(iken) , do(while) ,boolean literal<br>
   -This programming language specializes in preparing curricula and is very easy to learn<br>
   -It need only hour,classrooms,teachers and days.<br>
