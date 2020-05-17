@@ -7,15 +7,15 @@ iken(D205=bos){
  Murat Ak = D206;
 
 
-**other example**
+yorum : başka örnek
 
 String=Monday , saat=09:30;
-eger(Derslik=D205 && D205=bos){
+eger(Derslik=D205 ve D205=bos){
 return Murat Ak;
 }
-aksiTakdirde(Derslik=D206 && D206=bos){
+aksiTakdirde(Derslik=D206 ve D206=bos){
 return Murat Ak;
 }
-aksiTakdirde(Derslik=D207 && D207=bos){
+aksiTakdirde(Derslik=D207 ve D207=bos){
 return Murat Ak;
 }
