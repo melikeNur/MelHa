@@ -1,0 +1,21 @@
+Derslik = D205;
+Derslik = D206;
+Hoca    = Murat Ak;
+iken(D205=bos){
+ Murat Ak = D205;
+ }
+ Murat Ak = D206;
+
+
+yorum : başka örnek
+
+String=Monday , saat=09:30;
+eger(Derslik=D205 ve D205=bos){
+return Murat Ak;
+}
+aksiTakdirde(Derslik=D206 ve D206=bos){
+return Murat Ak;
+}
+aksiTakdirde(Derslik=D207 ve D207=bos){
+return Murat Ak;
+}
